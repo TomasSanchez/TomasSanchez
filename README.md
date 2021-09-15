@@ -1,9 +1,11 @@
 ### Hi! 👋
-## My name is Tomas
+## My name is Tomas.
 
 <br/>
 
-I'm a Computer Science student, fullstack developer specialized in backend building scalable web apps. 
+I'm a Systems Engineer student, fullstack developer specialized in backend building scalable web apps. 
+
+I've been programming for the past 2 years with a focus on python and backend development and for the past year integrating frontend technologies.
 
 I'm currently living in Argentina looking forward to moving abroad.
 
